@@ -46,28 +46,28 @@ export default function ContactPage() {
                 {
                   icon: Phone,
                   label: 'Phone',
-                  value: '+91-0000000000',
-                  href: 'tel:+91-0000000000',
+                  value: '+91-9803894000 \n+91-7009451721',
+                  href: 'tel:+919803894000',
                   color: 'bg-green-50 text-primary-500',
                 },
                 {
                   icon: Mail,
                   label: 'Email',
-                  value: 'info@dieusterimed.com',
-                  href: 'mailto:info@dieusterimed.com',
+                  value: 'emea@dieusterimed.agency',
+                  href: 'mailto:emea@dieusterimed.agency',
                   color: 'bg-blue-50 text-blue-500',
                 },
                 {
                   icon: MapPin,
-                  label: 'Address',
-                  value: 'Dieu SteriMed Pvt. Ltd., India',
+                  label: 'Head Office',
+                  value: 'St. No 03 Baba Mukand Singh Nagar, Daba Road GT Road Ludhiana 141014, Punjab',
                   href: '#',
                   color: 'bg-red-50 text-red-500',
                 },
                 {
-                  icon: Clock,
-                  label: 'Business Hours',
-                  value: 'Mon–Sat: 9:00 AM – 6:00 PM IST',
+                  icon: MapPin,
+                  label: 'Alliance Partner',
+                  value: 'Healwave Medical, Warehouse No-8, Industrial Area-13, Sharjah, UAE',
                   href: '#',
                   color: 'bg-amber-50 text-amber-500',
                 },
@@ -86,7 +86,7 @@ export default function ContactPage() {
                     <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-0.5">
                       {label}
                     </p>
-                    <p className="font-semibold text-dark-900 text-sm">{value}</p>
+                    <p className="font-semibold text-dark-900 text-sm whitespace-pre-line">{value}</p>
                   </div>
                 </a>
               ))}

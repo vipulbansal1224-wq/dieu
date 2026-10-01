@@ -1,24 +1,52 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowRight, Award, Users, Globe } from 'lucide-react';
 
+const sliderImages = [
+  "https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png",
+  "https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png",
+  "https://dieusterimed.com/wp-content/uploads/2025/08/shape-14-1.png"
+];
+
 export default function AboutSnapshot() {
+  const [currentSlide, setCurrentSlide] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentSlide((prev) => (prev + 1) % sliderImages.length);
+    }, 4000);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <section className="py-20 md:py-28 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Visual */}
+          {/* Visual Slider */}
           <div className="relative">
-            <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl">
-              <Image 
-                src="https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
-                alt="Dieu SteriMed Facility" 
-                fill
-                className="object-cover"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-dark-900/80 to-transparent" />
+            <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl bg-gradient-to-br from-green-50 to-primary-100 flex items-center justify-center p-8">
+              <AnimatePresence initial={false}>
+                <motion.div
+                  key={currentSlide}
+                  initial={{ opacity: 0, x: 50 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  exit={{ opacity: 0, x: -50 }}
+                  transition={{ duration: 0.8, ease: "easeInOut" }}
+                  className="absolute inset-0 p-12 flex items-center justify-center"
+                >
+                  <Image 
+                    src={sliderImages[currentSlide]} 
+                    alt="Dieu SteriMed Products" 
+                    fill
+                    className="object-contain p-8 drop-shadow-2xl"
+                  />
+                </motion.div>
+              </AnimatePresence>
+              <div className="absolute inset-0 bg-gradient-to-t from-dark-900/80 to-transparent z-10" />
               
-              <div className="absolute bottom-0 left-0 p-8 w-full">
+              <div className="absolute bottom-0 left-0 p-8 w-full z-20">
                 <h3 className="text-2xl font-display font-bold mb-4 text-white">Dieu SteriMed</h3>
                 <div className="grid grid-cols-3 gap-4">
                   {[

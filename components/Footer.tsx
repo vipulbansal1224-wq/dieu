@@ -106,27 +106,27 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={16} className="text-primary-400 mt-0.5 shrink-0" />
                 <span className="text-gray-400 text-sm leading-relaxed">
-                  Dieu SteriMed Pvt. Ltd.,
+                  St. No 03 Baba Mukand Singh Nagar,
                   <br />
-                  India
+                  Daba Road GT Road Ludhiana 141014, Punjab
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={16} className="text-primary-400 shrink-0" />
                 <a
-                  href="tel:+91-0000000000"
+                  href="tel:+919803894000"
                   className="text-gray-400 hover:text-primary-400 text-sm transition-colors"
                 >
-                  +91-0000000000
+                  +91-9803894000
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={16} className="text-primary-400 shrink-0" />
                 <a
-                  href="mailto:info@dieusterimed.com"
+                  href="mailto:emea@dieusterimed.agency"
                   className="text-gray-400 hover:text-primary-400 text-sm transition-colors"
                 >
-                  info@dieusterimed.com
+                  emea@dieusterimed.agency
                 </a>
               </li>
             </ul>

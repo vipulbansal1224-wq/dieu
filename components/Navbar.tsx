@@ -47,11 +47,11 @@ export default function Navbar() {
             <span>ISO Certified | WHO-GMP Compliant | CE Marked Products</span>
           </p>
           <a
-            href="tel:+91-0000000000"
+            href="tel:+919803894000"
             className="text-white text-xs flex items-center gap-1.5 hover:text-yellow-200 transition-colors"
           >
             <Phone size={12} />
-            <span>+91-0000000000</span>
+            <span>+91-9803894000</span>
           </a>
         </div>
       </div>

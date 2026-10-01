@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1a7c3e;
+  --primary-dark: #0f5126;
+  --accent: #f4b800;
+  --dark: #0d1117;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #ffffff;
+  color: #0d1117;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-dark);
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary-500 text-white font-semibold px-8 py-3 rounded-lg 
+           hover:bg-primary-600 transition-all duration-300 
+           shadow-lg hover:shadow-primary-500/30 hover:shadow-xl
+           transform hover:-translate-y-0.5 inline-flex items-center gap-2;
+  }
+
+  .btn-outline {
+    @apply border-2 border-primary-500 text-primary-500 font-semibold px-8 py-3 rounded-lg 
+           hover:bg-primary-500 hover:text-white transition-all duration-300
+           transform hover:-translate-y-0.5 inline-flex items-center gap-2;
+  }
+
+  .btn-accent {
+    @apply bg-accent-500 text-dark-900 font-bold px-8 py-3 rounded-lg 
+           hover:bg-accent-600 transition-all duration-300 
+           shadow-lg hover:shadow-accent-500/30 hover:shadow-xl
+           transform hover:-translate-y-0.5 inline-flex items-center gap-2;
+  }
+
+  .section-title {
+    @apply text-4xl md:text-5xl font-bold font-display leading-tight;
+  }
+
+  .section-subtitle {
+    @apply text-lg text-gray-600 mt-4 max-w-2xl;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-lg hover:shadow-2xl 
+           transition-all duration-300 overflow-hidden
+           border border-gray-100 hover:border-primary-200
+           transform hover:-translate-y-1;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1.5 bg-primary-50 text-primary-700 
+           text-sm font-semibold px-3 py-1 rounded-full border border-primary-200;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary-600 to-accent-500 bg-clip-text text-transparent;
+  }
+
+  .section-tag {
+    @apply text-primary-500 font-semibold text-sm uppercase tracking-widest 
+           flex items-center gap-2 mb-3;
+  }
+}
+
+/* Animated underline */
+.animated-underline {
+  position: relative;
+}
+.animated-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #1a7c3e, #f4b800);
+  transition: width 0.3s ease;
+  border-radius: 2px;
+}
+.animated-underline:hover::after {
+  width: 100%;
+}
+
+/* Glassmorphism */
+.glass {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Hero wave */
+.wave {
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+}
+
+/* Stats counter animation */
+@keyframes countUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Particle dots */
+.dot-pattern {
+  background-image: radial-gradient(circle, rgba(26,124,62,0.15) 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+
+/* Hexagon shape */
+.hexagon {
+  clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+}
+
+/* Product card hover */
+.product-card:hover .product-overlay {
+  opacity: 1;
+}
+
+/* Nav active */
+.nav-active {
+  color: #1a7c3e;
+  font-weight: 600;
+}
+
+/* Marquee */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-track {
+  animation: marquee 20s linear infinite;
+}
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+/* Custom focus ring */
+*:focus-visible {
+  outline: 2px solid #1a7c3e;
+  outline-offset: 2px;
+  border-radius: 4px;
+}

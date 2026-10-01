@@ -5,8 +5,11 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'dieusterimed.com',
-        pathname: '/wp-content/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      }
     ],
   },
 };

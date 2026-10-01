@@ -1,6 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { Menu, X, Shield, Phone } from 'lucide-react';
 
@@ -55,26 +56,14 @@ export default function Navbar() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 bg-primary-500 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-              <Shield size={22} className="text-white" />
-            </div>
-            <div>
-              <span
-                className={`font-display font-bold text-lg leading-none block transition-colors duration-300 ${
-                  scrolled ? 'text-primary-700' : 'text-white'
-                }`}
-              >
-                Dieu SteriMed
-              </span>
-              <span
-                className={`text-xs font-medium transition-colors duration-300 ${
-                  scrolled ? 'text-gray-500' : 'text-green-200'
-                }`}
-              >
-                Pvt. Ltd.
-              </span>
-            </div>
+          <Link href="/" className="flex items-center gap-3 group relative w-48 h-12">
+            <Image 
+              src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png" 
+              alt="Dieu SteriMed Logo" 
+              fill
+              className="object-contain filter brightness-0 invert transition-all duration-300"
+              style={{ filter: scrolled ? 'none' : 'brightness(0) invert(1)' }}
+            />
           </Link>
 
           {/* Desktop nav */}

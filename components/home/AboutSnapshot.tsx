@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowRight, Award, Users, Globe } from 'lucide-react';
 
 export default function AboutSnapshot() {
@@ -8,25 +9,26 @@ export default function AboutSnapshot() {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Visual */}
           <div className="relative">
-            <div className="relative bg-gradient-to-br from-primary-500 to-primary-700 rounded-3xl p-12 text-white overflow-hidden">
-              <div className="absolute top-0 right-0 w-48 h-48 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2" />
-              <div className="absolute bottom-0 left-0 w-32 h-32 bg-accent-500/20 rounded-full translate-y-1/2 -translate-x-1/2" />
-              <div className="relative z-10">
-                <div className="text-7xl font-display font-black text-white/20 mb-2">DSM</div>
-                <h3 className="text-2xl font-display font-bold mb-4">Dieu SteriMed</h3>
-                <p className="text-green-100 text-sm leading-relaxed mb-6">
-                  Founded with a clear purpose — to bring innovation, safety, and trust to the world
-                  of sterilization and infection control.
-                </p>
+            <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl">
+              <Image 
+                src="https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+                alt="Dieu SteriMed Facility" 
+                fill
+                className="object-cover"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-dark-900/80 to-transparent" />
+              
+              <div className="absolute bottom-0 left-0 p-8 w-full">
+                <h3 className="text-2xl font-display font-bold mb-4 text-white">Dieu SteriMed</h3>
                 <div className="grid grid-cols-3 gap-4">
                   {[
                     { icon: Award, label: 'ISO Certified' },
                     { icon: Users, label: 'Expert Team' },
                     { icon: Globe, label: 'Pan-India' },
                   ].map(({ icon: Icon, label }) => (
-                    <div key={label} className="bg-white/10 rounded-xl p-3 text-center">
+                    <div key={label} className="bg-white/20 backdrop-blur-md rounded-xl p-3 text-center border border-white/30">
                       <Icon size={20} className="mx-auto mb-1 text-yellow-300" />
-                      <p className="text-xs font-medium text-green-100">{label}</p>
+                      <p className="text-xs font-medium text-white">{label}</p>
                     </div>
                   ))}
                 </div>
@@ -34,13 +36,19 @@ export default function AboutSnapshot() {
             </div>
 
             {/* Founder card */}
-            <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-5 shadow-2xl border border-gray-100 max-w-[200px]">
-              <p className="text-xs text-gray-500 mb-1">Founded by</p>
-              <p className="text-sm font-bold text-gray-900 leading-tight">
-                Mr. Jaswant Singh Bodhy
-              </p>
-              <p className="text-xs text-gray-500 mt-0.5">& Team</p>
-              <div className="w-full h-1 bg-gradient-to-r from-primary-500 to-accent-500 rounded-full mt-3" />
+            <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-5 shadow-2xl border border-gray-100 max-w-[220px]">
+              <div className="flex items-center gap-4 mb-3">
+                 <div className="w-12 h-12 bg-primary-50 rounded-full flex items-center justify-center overflow-hidden">
+                    <span className="font-display font-bold text-primary-600 text-lg">JB</span>
+                 </div>
+                 <div>
+                    <p className="text-xs text-gray-500 mb-0.5">Founded by</p>
+                    <p className="text-sm font-bold text-gray-900 leading-tight">
+                      Mr. Jaswant Singh Bodhy
+                    </p>
+                 </div>
+              </div>
+              <div className="w-full h-1 bg-gradient-to-r from-primary-500 to-accent-500 rounded-full" />
             </div>
           </div>
 

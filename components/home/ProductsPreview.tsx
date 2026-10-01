@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowRight, Tag } from 'lucide-react';
 
 const products = [
@@ -7,10 +8,7 @@ const products = [
     name: 'Class 1 Chemical Indicators',
     description:
       'Process indicators used to distinguish between processed and non-processed items. Available in strip and tape formats.',
-    icon: '🏷️',
-    color: 'from-blue-500 to-blue-600',
-    bg: 'bg-blue-50',
-    border: 'border-blue-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
     tag: 'ISO 11140-1 Class 1',
   },
   {
@@ -18,10 +16,7 @@ const products = [
     name: 'Class 4 Multi-Variable Indicators',
     description:
       'React to all critical variables of the sterilization process. Change color only when all parameters are achieved.',
-    icon: '🔬',
-    color: 'from-primary-500 to-primary-600',
-    bg: 'bg-primary-50',
-    border: 'border-primary-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
     tag: 'ISO 11140-1 Class 4',
   },
   {
@@ -29,10 +24,7 @@ const products = [
     name: 'Class 5 Integrating Indicators',
     description:
       'Designed to react to all critical variables of sterilization. Correlate with biological indicator performance.',
-    icon: '⚗️',
-    color: 'from-purple-500 to-purple-600',
-    bg: 'bg-purple-50',
-    border: 'border-purple-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
     tag: 'ISO 11140-1 Class 5',
   },
   {
@@ -40,10 +32,7 @@ const products = [
     name: 'Class 6 Emulating Indicators',
     description:
       'Cycle-specific indicators that react to all critical variables. Ideal for routine monitoring of specific sterilization cycles.',
-    icon: '🎯',
-    color: 'from-orange-500 to-orange-600',
-    bg: 'bg-orange-50',
-    border: 'border-orange-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
     tag: 'ISO 11140-1 Class 6',
   },
   {
@@ -51,10 +40,7 @@ const products = [
     name: 'Process Challenge Devices',
     description:
       'Standardized challenge systems designed to test sterilization effectiveness. Used with biological and chemical indicators.',
-    icon: '🧪',
-    color: 'from-teal-500 to-teal-600',
-    bg: 'bg-teal-50',
-    border: 'border-teal-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
     tag: 'ISO 11138 Compliant',
   },
   {
@@ -62,10 +48,7 @@ const products = [
     name: 'Biological Indicators',
     description:
       'The gold standard for sterilization validation. Contains spores of highly resistant microorganisms for definitive sterilization assurance.',
-    icon: '🦠',
-    color: 'from-amber-500 to-amber-600',
-    bg: 'bg-amber-50',
-    border: 'border-amber-100',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
     tag: 'ISO 11138',
   },
 ];
@@ -95,23 +78,28 @@ export default function ProductsPreview() {
             <Link
               key={product.id}
               href={`/products#${product.id}`}
-              className={`group card p-6 ${product.bg} border ${product.border} hover:shadow-xl transition-all duration-300`}
+              className="group card overflow-hidden bg-white hover:shadow-xl transition-all duration-300 flex flex-col border border-gray-100"
             >
-              <div
-                className={`w-14 h-14 bg-gradient-to-br ${product.color} rounded-2xl flex items-center justify-center text-2xl mb-5 shadow-lg group-hover:scale-110 transition-transform duration-300`}
-              >
-                {product.icon}
+              <div className="relative w-full h-48 bg-primary-50/50 p-6 flex items-center justify-center group-hover:bg-primary-100/50 transition-colors">
+                <Image 
+                  src={product.image} 
+                  alt={product.name} 
+                  fill
+                  className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 drop-shadow-lg"
+                />
               </div>
-              <div className="inline-flex items-center gap-1 text-xs font-semibold text-gray-500 bg-white px-2.5 py-1 rounded-full border border-gray-200 mb-3">
-                <Tag size={10} />
-                {product.tag}
-              </div>
-              <h3 className="font-display font-bold text-lg text-dark-900 mb-2 group-hover:text-primary-600 transition-colors">
-                {product.name}
-              </h3>
-              <p className="text-gray-600 text-sm leading-relaxed">{product.description}</p>
-              <div className="mt-5 flex items-center gap-2 text-primary-600 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                Learn More <ArrowRight size={14} />
+              <div className="p-6 flex-1 flex flex-col">
+                <div className="inline-flex items-center gap-1 text-xs font-semibold text-gray-500 bg-gray-50 px-2.5 py-1 rounded-full border border-gray-200 mb-3 self-start">
+                  <Tag size={10} />
+                  {product.tag}
+                </div>
+                <h3 className="font-display font-bold text-lg text-dark-900 mb-2 group-hover:text-primary-600 transition-colors">
+                  {product.name}
+                </h3>
+                <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-1">{product.description}</p>
+                <div className="flex items-center gap-2 text-primary-600 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform -translate-x-2 group-hover:translate-x-0">
+                  Learn More <ArrowRight size={14} />
+                </div>
               </div>
             </Link>
           ))}

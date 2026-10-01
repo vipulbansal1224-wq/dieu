@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Shield, Phone, Mail, MapPin, Linkedin, Facebook, Twitter, Youtube } from 'lucide-react';
 
 const footerLinks = {
@@ -26,16 +27,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex items-center gap-3 mb-4 group">
-              <div className="w-10 h-10 bg-primary-500 rounded-xl flex items-center justify-center shadow-lg">
-                <Shield size={22} className="text-white" />
-              </div>
-              <div>
-                <span className="font-display font-bold text-lg text-white leading-none block">
-                  Dieu SteriMed
-                </span>
-                <span className="text-xs text-gray-400">Pvt. Ltd.</span>
-              </div>
+            <Link href="/" className="flex items-center gap-3 mb-6 group relative w-56 h-14">
+              <Image 
+                src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png" 
+                alt="Dieu SteriMed Logo" 
+                fill
+                className="object-contain filter brightness-0 invert"
+              />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
               Inspired by vision, strengthened by legacy, and committed to a safer tomorrow. Delivering world-class sterilization monitoring solutions.

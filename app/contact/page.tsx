@@ -2,6 +2,8 @@
 import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from 'lucide-react';
 
+import PageBanner from '@/components/PageBanner';
+
 export default function ContactPage() {
   const [submitted, setSubmitted] = useState(false);
   const [formData, setFormData] = useState({
@@ -19,32 +21,12 @@ export default function ContactPage() {
   };
 
   return (
-    <div className="pt-20">
-      {/* Hero */}
-      <section className="bg-hero-gradient py-20 md:py-24 relative overflow-hidden">
-        <div className="absolute inset-0 dot-pattern opacity-20" />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative text-center">
-          <p className="section-tag justify-center text-green-300">
-            <span className="w-8 h-0.5 bg-green-400" />
-            Contact Us
-            <span className="w-8 h-0.5 bg-green-400" />
-          </p>
-          <h1 className="font-display text-5xl md:text-6xl font-bold text-white mb-4">
-            Get in Touch
-          </h1>
-          <p className="text-gray-300 text-xl max-w-2xl mx-auto">
-            Have questions about our products or want to place an order? Our team is here to help.
-          </p>
-        </div>
-        <div className="wave">
-          <svg viewBox="0 0 1440 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M0 60L48 50C96 40 192 20 288 15C384 10 480 20 576 25C672 30 768 30 864 25C960 20 1056 10 1152 10C1248 10 1344 20 1392 25L1440 30V60H0Z"
-              fill="white"
-            />
-          </svg>
-        </div>
-      </section>
+    <div>
+      <PageBanner 
+        tag="Contact Us"
+        title="Get in Touch"
+        subtitle="Have questions about our products or want to place an order? Our team is here to help."
+      />
 
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

@@ -149,48 +149,16 @@ const productCategories = [
   },
 ];
 
+import PageBanner from '@/components/PageBanner';
+
 export default function ProductsPage() {
   return (
-    <div className="pt-20">
-      {/* Hero */}
-      <section className="bg-hero-gradient py-20 md:py-28 relative overflow-hidden">
-        <div className="absolute inset-0 dot-pattern opacity-20" />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-          <div className="max-w-3xl">
-            <p className="section-tag text-green-300">
-              <span className="w-8 h-0.5 bg-green-400" />
-              Our Products
-            </p>
-            <h1 className="font-display text-5xl md:text-6xl font-bold text-white mb-6">
-              Complete Sterilization
-              <span className="block text-accent-400">Monitoring Range</span>
-            </h1>
-            <p className="text-gray-300 text-xl leading-relaxed mb-8">
-              From Class 1 process indicators to biological assurance systems — comprehensive
-              solutions for every sterilization validation need.
-            </p>
-            <div className="flex flex-wrap gap-3">
-              {productCategories.map((p) => (
-                <a
-                  key={p.id}
-                  href={`#${p.id}`}
-                  className="text-sm bg-white/10 hover:bg-white/20 text-white px-4 py-1.5 rounded-full border border-white/20 transition-colors"
-                >
-                  {p.name}
-                </a>
-              ))}
-            </div>
-          </div>
-        </div>
-        <div className="wave">
-          <svg viewBox="0 0 1440 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M0 60L48 50C96 40 192 20 288 15C384 10 480 20 576 25C672 30 768 30 864 25C960 20 1056 10 1152 10C1248 10 1344 20 1392 25L1440 30V60H0Z"
-              fill="white"
-            />
-          </svg>
-        </div>
-      </section>
+    <div>
+      <PageBanner 
+        tag="Our Products"
+        title="Complete Sterilization Monitoring Range"
+        subtitle="From Class 1 process indicators to biological assurance systems — comprehensive solutions for every sterilization validation need."
+      />
 
       {/* Products list */}
       <section className="py-16 bg-white">

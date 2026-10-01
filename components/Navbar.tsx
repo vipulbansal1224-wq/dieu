@@ -18,6 +18,9 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const pathname = usePathname();
 
+  const isHome = pathname === '/';
+  const isSolid = !isHome || scrolled;
+
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 30);
     window.addEventListener('scroll', handleScroll);
@@ -27,7 +30,7 @@ export default function Navbar() {
   return (
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        scrolled
+        isSolid
           ? 'bg-white/95 backdrop-blur-md shadow-lg shadow-gray-200/50'
           : 'bg-transparent'
       }`}
@@ -35,7 +38,7 @@ export default function Navbar() {
       {/* Top bar */}
       <div
         className={`transition-all duration-300 ${
-          scrolled ? 'h-0 overflow-hidden opacity-0' : 'h-8 opacity-100'
+          isSolid ? 'h-0 overflow-hidden opacity-0' : 'h-8 opacity-100'
         } bg-primary-500`}
       >
         <div className="max-w-7xl mx-auto px-4 h-full flex items-center justify-between">
@@ -62,7 +65,7 @@ export default function Navbar() {
               alt="Dieu SteriMed Logo" 
               fill
               className="object-contain filter brightness-0 invert transition-all duration-300"
-              style={{ filter: scrolled ? 'none' : 'brightness(0) invert(1)' }}
+              style={{ filter: isSolid ? 'none' : 'brightness(0) invert(1)' }}
             />
           </Link>
 
@@ -74,10 +77,10 @@ export default function Navbar() {
                 href={link.href}
                 className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 animated-underline ${
                   pathname === link.href
-                    ? scrolled
+                    ? isSolid
                       ? 'text-primary-600 font-semibold'
                       : 'text-yellow-300 font-semibold'
-                    : scrolled
+                    : isSolid
                     ? 'text-gray-700 hover:text-primary-600'
                     : 'text-white/90 hover:text-white'
                 }`}
@@ -98,7 +101,7 @@ export default function Navbar() {
             <button
               onClick={() => setMenuOpen(!menuOpen)}
               className={`md:hidden p-2 rounded-lg transition-colors ${
-                scrolled ? 'text-gray-700 hover:bg-gray-100' : 'text-white hover:bg-white/10'
+                isSolid ? 'text-gray-700 hover:bg-gray-100' : 'text-white hover:bg-white/10'
               }`}
               aria-label="Toggle menu"
             >

@@ -91,37 +91,16 @@ const milestones = [
   },
 ];
 
+import PageBanner from '@/components/PageBanner';
+
 export default function AboutPage() {
   return (
-    <div className="pt-20">
-      {/* Hero */}
-      <section className="bg-hero-gradient py-20 md:py-28 relative overflow-hidden">
-        <div className="absolute inset-0 dot-pattern opacity-20" />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-          <div className="max-w-3xl">
-            <p className="section-tag text-green-300">
-              <span className="w-8 h-0.5 bg-green-400" />
-              About Us
-            </p>
-            <h1 className="font-display text-5xl md:text-6xl font-bold text-white mb-6">
-              Inspired by Vision,
-              <span className="block text-accent-400">Built for Safety</span>
-            </h1>
-            <p className="text-gray-300 text-xl leading-relaxed">
-              Dieu SteriMed Pvt. Ltd. was founded with a clear purpose — to bring innovation,
-              safety, and trust to the world of sterilization and infection control.
-            </p>
-          </div>
-        </div>
-        <div className="wave">
-          <svg viewBox="0 0 1440 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M0 60L48 50C96 40 192 20 288 15C384 10 480 20 576 25C672 30 768 30 864 25C960 20 1056 10 1152 10C1248 10 1344 20 1392 25L1440 30V60H0Z"
-              fill="white"
-            />
-          </svg>
-        </div>
-      </section>
+    <div>
+      <PageBanner 
+        tag="About Us"
+        title="Inspired by Vision, Built for Safety"
+        subtitle="Dieu SteriMed Pvt. Ltd. was founded with a clear purpose — to bring innovation, safety, and trust to the world of sterilization and infection control."
+      />
 
       {/* Story */}
       <section className="py-20 bg-white">

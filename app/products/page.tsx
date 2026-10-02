@@ -5,7 +5,15 @@ const productCategories = [
   {
     id: 'sterilization-indicators',
     name: 'Sterilization Indicators',
+    standard: 'ISO 11140-1',
     description: 'Comprehensive chemical indicators for monitoring steam and EO sterilization cycles.',
+    features: [
+      'ASURE BOWIE DICK TEST PACK: Detects air leaks and steam penetration issues.',
+      'ASURE CLASS 6 INTEGRATOR: Cycle-specific precise monitoring.',
+      'ASURE CLASS 5 INTEGRATOR: Correlates to biological indicator performance.',
+      'PROCESS INDICATOR TAPE: Clear visual evidence for Steam or EO.',
+    ],
+    applications: ['Surgical packs', 'Trays', 'Pouches', 'CSSD monitoring'],
     icon: '🏷️',
     color: 'from-blue-500 to-blue-700',
     lightBg: 'bg-blue-50 border-blue-200',
@@ -35,7 +43,14 @@ const productCategories = [
   {
     id: 'consumables',
     name: 'Disinfectants & Consumables',
+    standard: 'ISO Quality Standards',
     description: 'High-level disinfectants and EO cartridges for safe sterilization.',
+    features: [
+      'ASURE OPA & GLUTASURE: High-level instrument disinfectants.',
+      'ASURE®-FS Fogging Solution: Effective environmental decontamination.',
+      '100% EO Cartridges for low-temperature sterilization.',
+    ],
+    applications: ['Instrument sets', 'Environmental fogging', 'Endoscope reprocessing'],
     icon: '⚗️',
     color: 'from-primary-500 to-primary-700',
     lightBg: 'bg-primary-50 border-primary-200',
@@ -65,7 +80,15 @@ const productCategories = [
   {
     id: 'packaging-devices',
     name: 'Packaging, PCDs & Documentation',
+    standard: 'ISO 11607 & ISO 11140-5',
     description: 'Medical-grade packaging, challenge devices, and traceability rolls.',
+    features: [
+      'Sterilization Pouches & Flat Reels: Strong seals and microbial barriers.',
+      'SMS Sheet: Non-woven wrapping sheets for trays.',
+      'ASURE PCD: Process challenge devices for load release.',
+      'Documentation Rolls: Traceability labels for CSSD.',
+    ],
+    applications: ['CSSD validation', 'Implant release decisions', 'Sterile storage'],
     icon: '📦',
     color: 'from-amber-500 to-amber-700',
     lightBg: 'bg-amber-50 border-amber-200',
@@ -136,7 +159,7 @@ export default function ProductsPage() {
                 <p className="text-gray-600 leading-relaxed mb-6">{category.description}</p>
 
                 <div className="space-y-2 mb-8">
-                  {category.features.map((f) => (
+                  {category.features.map((f: string) => (
                     <div key={f} className="flex items-start gap-3">
                       <CheckCircle size={16} className="text-primary-500 mt-0.5 shrink-0" />
                       <span className="text-gray-700 text-sm">{f}</span>
@@ -147,7 +170,7 @@ export default function ProductsPage() {
                 <div className="mb-8">
                   <p className="font-semibold text-sm text-gray-900 mb-3">Applications:</p>
                   <div className="flex flex-wrap gap-2">
-                    {category.applications.map((a) => (
+                    {category.applications.map((a: string) => (
                       <span
                         key={a}
                         className="text-xs bg-primary-50 text-primary-700 border border-primary-200 px-3 py-1 rounded-full font-medium"

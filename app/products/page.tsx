@@ -3,54 +3,100 @@ import Link from 'next/link';
 
 const productCategories = [
   {
-    id: 'chemical-indicators',
-    name: 'Chemical Indicators & Monitoring',
-    standard: 'ISO 11140-1',
-    description:
-      'Comprehensive range of process indicators, emulating indicators, and test packs designed to react to critical variables of the sterilization process.',
-    features: [
-      'ASURE BOWIE DICK TEST PACK: Detects air leaks and steam penetration issues.',
-      'ASURE CLASS 6 INTEGRATOR: Cycle-specific precise monitoring.',
-      'ASURE CLASS 5 INTEGRATOR: Correlates to biological indicator performance.',
-      'PROCESS INDICATOR TAPE: Clear visual evidence for Steam or EO.',
-    ],
-    applications: ['Surgical packs', 'Trays', 'Pouches', 'CSSD monitoring'],
+    id: 'sterilization-indicators',
+    name: 'Sterilization Indicators',
+    description: 'Comprehensive chemical indicators for monitoring steam and EO sterilization cycles.',
     icon: '🏷️',
     color: 'from-blue-500 to-blue-700',
     lightBg: 'bg-blue-50 border-blue-200',
     products: [
-      { name: 'ASURE BOWIE DICK TEST PACK', size: 'Daily Test Packs' },
-      { name: 'ASURE CLASS 6 INTEGRATOR INDICATOR', size: 'Pack of 250/500' },
-      { name: 'ASURE CLASS 5 INTEGRATOR INDICATOR', size: 'Pack of 250/500' },
-      { name: 'PROCESS INDICATOR TAPE : STEAM & ETO', size: '19mm × 50m' },
-      { name: 'ASURE DOCUMENTATION ROLLS', size: 'Multiple Sizes' },
+      { 
+        name: 'ASURE CLASS 6 INTEGRATOR INDICATOR', 
+        size: 'Cycle-specific monitoring',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/ci6-1-1.png'
+      },
+      { 
+        name: 'ASURE CLASS 5 INTEGRATOR INDICATOR', 
+        size: 'Biological correlation',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1.jpeg'
+      },
+      { 
+        name: 'ASURE BOWIE DICK TEST PACK', 
+        size: 'Daily test packs',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM.jpeg'
+      },
+      { 
+        name: 'PROCESS INDICATOR TAPE : STEAM & ETO', 
+        size: '19mm × 50m',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.06-PM.jpeg'
+      }
     ],
   },
   {
-    id: 'consumables-equipment',
-    name: 'Disinfectants, Packaging & Devices',
-    standard: 'ISO Quality Standards',
-    description:
-      'Specialized fogging solutions, high-level disinfectants, and medical-grade packaging to ensure comprehensive infection control and safe storage.',
-    features: [
-      'ASURE OPA & GLUTASURE: High-level instrument disinfectants.',
-      'ASURE®-FS Fogging Solution: Effective environmental decontamination.',
-      'Sterilization Pouches & Flat Reels: Strong seals and microbial barriers.',
-      'SMS Sheet & ASURE PROCESS CHALLENGE DEVICE (PCD)',
-    ],
-    applications: ['Instrument sets', 'Environmental fogging', 'CSSD validation', 'Implant release decisions'],
+    id: 'consumables',
+    name: 'Disinfectants & Consumables',
+    description: 'High-level disinfectants and EO cartridges for safe sterilization.',
     icon: '⚗️',
     color: 'from-primary-500 to-primary-700',
     lightBg: 'bg-primary-50 border-primary-200',
     products: [
-      { name: 'ASURE OPA', size: '5 Litres' },
-      { name: 'GLUTASURE', size: '5 Litres' },
-      { name: 'ASURE®-FS Fogging Solution', size: '5 Litres' },
-      { name: 'ASURE PROCESS CHALLENGE DEVICE', size: 'Challenge Packs' },
-      { name: 'Sterilization Pouches & Flat Reels', size: 'Various Dimensions' },
-      { name: 'SMS SHEET', size: '60x60, 80x80, 100x100, 120x120' },
+      { 
+        name: 'ASURE OPA', 
+        size: '5 Litres',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1.jpeg'
+      },
+      { 
+        name: 'GLUTASURE', 
+        size: '5 Litres',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM.jpeg'
+      },
+      { 
+        name: 'ASURE®-FS Fogging Solution', 
+        size: '5 Litres',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-scaled.png'
+      },
+      { 
+        name: 'ASURE EO CARTRIDGES', 
+        size: '100% EO Cartridge',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM.jpeg'
+      }
     ],
   },
+  {
+    id: 'packaging-devices',
+    name: 'Packaging, PCDs & Documentation',
+    description: 'Medical-grade packaging, challenge devices, and traceability rolls.',
+    icon: '📦',
+    color: 'from-amber-500 to-amber-700',
+    lightBg: 'bg-amber-50 border-amber-200',
+    products: [
+      { 
+        name: 'Sterilization Pouches', 
+        size: 'Various Dimensions',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.37-AM.jpeg'
+      },
+      { 
+        name: 'Flat Reels', 
+        size: 'Various Dimensions',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.36-AM.jpeg'
+      },
+      { 
+        name: 'SMS SHEET: 60x60, 80x80, 100x100, 120x120', 
+        size: 'Non-woven wrapping sheets',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.05-PM.jpeg'
+      },
+      { 
+        name: 'ASURE PROCESS CHALLENGE DEVICE', 
+        size: 'Challenge Packs',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM.jpeg'
+      },
+      { 
+        name: 'ASURE DOCUMENTATION ROLLS', 
+        size: 'Traceability labels',
+        image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM.jpeg'
+      }
+    ],
+  }
 ];
 
 import PageBanner from '@/components/PageBanner';
@@ -125,24 +171,23 @@ export default function ProductsPage() {
               <div className={idx % 2 === 1 ? 'lg:order-1' : ''}>
                 <div className={`rounded-3xl border-2 ${category.lightBg} p-8`}>
                   <h3 className="font-display font-bold text-lg text-dark-900 mb-6">
-                    Available SKUs
+                    Available Products
                   </h3>
-                  <div className="space-y-4">
+                  <div className="grid grid-cols-2 gap-4">
                     {category.products.map((product) => (
                       <div
                         key={product.name}
-                        className="bg-white rounded-xl p-4 flex items-center justify-between shadow-sm border border-gray-100 group hover:border-primary-200 hover:shadow-md transition-all"
+                        className="bg-white rounded-xl p-4 flex flex-col justify-between shadow-sm border border-gray-100 group hover:border-primary-200 hover:shadow-md transition-all"
                       >
+                        <div className="relative w-full h-24 mb-3">
+                          <img src={product.image} alt={product.name} className="absolute inset-0 w-full h-full object-contain mix-blend-multiply" />
+                        </div>
                         <div>
-                          <p className="font-semibold text-sm text-dark-900 group-hover:text-primary-600 transition-colors">
+                          <p className="font-semibold text-xs text-dark-900 group-hover:text-primary-600 transition-colors line-clamp-2">
                             {product.name}
                           </p>
-                          <p className="text-xs text-gray-500 mt-0.5">{product.size}</p>
+                          <p className="text-[10px] text-gray-500 mt-1 truncate">{product.size}</p>
                         </div>
-                        <Download
-                          size={16}
-                          className="text-gray-400 group-hover:text-primary-500 transition-colors"
-                        />
                       </div>
                     ))}
                   </div>

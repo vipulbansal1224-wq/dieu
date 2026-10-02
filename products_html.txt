@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Products - Dieu SteriMed Pvt. Ltd.</title>
+	<link rel="canonical" href="https://dieusterimed.com/research-2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Products - Dieu SteriMed Pvt. Ltd." />
+	<meta property="og:description" content="Home ASURE OPA View Details GLUTASURE View Details ASURE EO CARTRIDGES View Details ASURE®-FS Fogging Solution View Details ASURE BOWIE DICK TEST PACK View Details ASURE CLASS 6 INTEGRATOR INDICATOR View Details ASURE CLASS 5 INTEGRATOR INDICATOR View Details PROCESS INDICATOR TAPE : STEAM &#038; ETO View Details ASURE PROCESS CHALLENGE DEVICE View Details SMS [&hellip;]" />
+	<meta property="og:url" content="https://dieusterimed.com/research-2/" />
+	<meta property="og:site_name" content="Dieu SteriMed Pvt. Ltd." />
+	<meta property="article:modified_time" content="2025-11-12T19:45:53+00:00" />
+	<meta property="og:image" content="https://dieusterimed.com/wp-content/uploads/2025/08/shape-63.png" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="172" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/dieusterimed.com\/research-2\/","url":"https:\/\/dieusterimed.com\/research-2\/","name":"Products - Dieu SteriMed Pvt. Ltd.","isPartOf":{"@id":"https:\/\/dieusterimed.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/dieusterimed.com\/research-2\/#primaryimage"},"image":{"@id":"https:\/\/dieusterimed.com\/research-2\/#primaryimage"},"thumbnailUrl":"https:\/\/dieusterimed.com\/wp-content\/uploads\/2025\/08\/shape-63.png","datePublished":"2025-08-03T08:49:27+00:00","dateModified":"2025-11-12T19:45:53+00:00","breadcrumb":{"@id":"https:\/\/dieusterimed.com\/research-2\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/dieusterimed.com\/research-2\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/dieusterimed.com\/research-2\/#primaryimage","url":"https:\/\/dieusterimed.com\/wp-content\/uploads\/2025\/08\/shape-63.png","contentUrl":"https:\/\/dieusterimed.com\/wp-content\/uploads\/2025\/08\/shape-63.png","width":500,"height":172},{"@type":"BreadcrumbList","@id":"https:\/\/dieusterimed.com\/research-2\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/dieusterimed.com\/"},{"@type":"ListItem","position":2,"name":"Products"}]},{"@type":"WebSite","@id":"https:\/\/dieusterimed.com\/#website","url":"https:\/\/dieusterimed.com\/","name":"Dieu SteriMed","description":"Inspired by vision, strengthened by legacy, and committed to a safer tomorrow.","publisher":{"@id":"https:\/\/dieusterimed.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/dieusterimed.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/dieusterimed.com\/#organization","name":"Dieu SteriMed","url":"https:\/\/dieusterimed.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/dieusterimed.com\/#\/schema\/logo\/image\/","url":"https:\/\/dieusterimed.com\/wp-content\/uploads\/2025\/08\/DIEU-STERIMED.png","contentUrl":"https:\/\/dieusterimed.com\/wp-content\/uploads\/2025\/08\/DIEU-STERIMED.png","width":972,"height":274,"caption":"Dieu SteriMed"},"image":{"@id":"https:\/\/dieusterimed.com\/#\/schema\/logo\/image\/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Dieu SteriMed Pvt. Ltd. &raquo; Feed" href="https://dieusterimed.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dieu SteriMed Pvt. Ltd. &raquo; Comments Feed" href="https://dieusterimed.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://dieusterimed.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdieusterimed.com%2Fresearch-2%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://dieusterimed.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdieusterimed.com%2Fresearch-2%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://dieusterimed.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://dieusterimed.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://dieusterimed.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='elementor-post-158-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/post-158.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://dieusterimed.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://dieusterimed.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://dieusterimed.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://dieusterimed.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-image-box-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='elementor-post-199-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/post-199.css?ver=1790858645' media='all' />
+<link rel='stylesheet' id='elementor-post-167-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/post-167.css?ver=1790845970' media='all' />
+<link rel='stylesheet' id='elementor-post-162-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/post-162.css?ver=1790845970' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-barlow-css' href='https://dieusterimed.com/wp-content/uploads/elementor/google-fonts/css/barlow.css?ver=1754211101' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-opensans-css' href='https://dieusterimed.com/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1754211104' media='all' />
+<script id="jquery-core-js" src="https://dieusterimed.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://dieusterimed.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://dieusterimed.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://dieusterimed.com/wp-json/wp/v2/pages/199" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dieusterimed.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://dieusterimed.com/?p=199' />
+<meta name="generator" content="Elementor 4.1.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			</head>
+<body class="wp-singular page-template-default page page-id-199 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-158 elementor-page elementor-page-199">
+
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<div data-elementor-type="header" data-elementor-id="167" class="elementor elementor-167 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-12db3cf0 elementor-hidden-tablet elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-laptop e-flex e-con-boxed e-con e-parent" data-id="12db3cf0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4755abe3 e-con-full e-flex e-con e-child" data-id="4755abe3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-72a3f2a7 elementor-widget elementor-widget-heading" data-id="72a3f2a7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Share with on:
+</h2>				</div>
+				<div class="elementor-element elementor-element-5c7ce1e2 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5c7ce1e2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-cbfddac" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook-f" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-dcad5b0" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-bbe1175" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-7fa8f24" target="_blank">
+						<span class="elementor-screen-only">Pinterest</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-pinterest" viewBox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-5e2b6fdc e-con-full e-flex e-con e-child" data-id="5e2b6fdc" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-29f3b56d elementor-align-end elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="29f3b56d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-clock" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Every day: 9:00am - 6:00pm</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-63660ca4 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="63660ca4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-57b59e04 e-con-full e-flex e-con e-child" data-id="57b59e04" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c8672d9 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="c8672d9" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="https://dieusterimed.com">
+							<img width="800" height="241" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png" class="attachment-large size-large wp-image-307" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png 909w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1-300x90.png 300w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1-768x231.png 768w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+															</div>
+				</div>
+		<div class="elementor-element elementor-element-351b475 e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="351b475" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5332d53d elementor-widget elementor-widget-button" data-id="5332d53d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Request A Quote</span>
+					</span>
+					</a>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b598956 e-flex e-con-boxed e-con e-parent" data-id="b598956" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c7d2094 e-con-full e-flex e-con e-child" data-id="c7d2094" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5cda595 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="5cda595" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="https://dieusterimed.com/">
+							<img width="300" height="85" src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-300x85.png" class="attachment-medium size-medium wp-image-964" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-300x85.png 300w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-768x216.png 768w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png 972w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+		<div class="elementor-element elementor-element-00cbd0e e-con-full e-flex e-con e-child" data-id="00cbd0e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-46fa8984 elementor-position-inline-start elementor-mobile-position-inline-start elementor-widget-laptop__width-initial elementor-view-default elementor-widget elementor-widget-icon-box" data-id="46fa8984" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Call Us						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						<a href="tel:9803894000">+91-9803894000</a>					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-f4c56a6 e-con-full e-flex e-con e-child" data-id="f4c56a6" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-66cc08b1 elementor-position-inline-start elementor-mobile-position-inline-start elementor-widget-laptop__width-initial elementor-view-default elementor-widget elementor-widget-icon-box" data-id="66cc08b1" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 10 5 L 10 6.9003906 L 4.0078125 10.802734 L 4.0078125 27 L 27.992188 27 L 27.992188 10.802734 L 22 6.8984375 L 22 5 L 10 5 z M 12 7 L 20 7 L 20 14.681641 L 16 17.273438 L 12 14.681641 L 12 7 z M 13 9 L 13 11 L 19 11 L 19 9 L 13 9 z M 10 9.2851562 L 10 13.386719 L 6.84375 11.341797 L 10 9.2851562 z M 22 9.2851562 L 25.15625 11.341797 L 22 13.386719 L 22 9.2851562 z M 13 12 L 13 14 L 19 14 L 19 12 L 13 12 z M 6.0078125 13.183594 L 16 19.65625 L 25.992188 13.183594 L 25.992188 25 L 6.0078125 25 L 6.0078125 13.183594 z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							E-mail Us						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						<a href="mailto:emea@dieusterimed.agency">emea@dieusterimed.agency</a>					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-d89ee65 e-con-full e-flex e-con e-child" data-id="d89ee65" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-721f599d elementor-view-default elementor-widget elementor-widget-icon" data-id="721f599d" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MTY0LCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 4 7 L 4 9 L 28 9 L 28 7 Z M 4 15 L 4 17 L 28 17 L 28 15 Z M 4 23 L 4 25 L 28 25 L 28 23 Z"></path></svg>			</a>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div data-elementor-type="wp-page" data-elementor-id="199" class="elementor elementor-199" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-1341deed e-flex e-con-boxed e-con e-parent" data-id="1341deed" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-250f84e5 e-flex e-con-boxed e-con e-child" data-id="250f84e5" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3a07346f elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-absolute elementor-widget elementor-widget-image" data-id="3a07346f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+															<img fetchpriority="high" decoding="async" width="500" height="172" src="https://dieusterimed.com/wp-content/uploads/2025/08/shape-63.png" class="attachment-large size-large wp-image-31" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/shape-63.png 500w, https://dieusterimed.com/wp-content/uploads/2025/08/shape-63-300x103.png 300w" sizes="(max-width: 500px) 100vw, 500px" />															</div>
+				<div class="elementor-element elementor-element-1f81701c elementor-widget elementor-widget-theme-page-title elementor-page-title elementor-widget-heading" data-id="1f81701c" data-element_type="widget" data-e-type="widget" data-widget_type="theme-page-title.default">
+					<h1 class="elementor-heading-title elementor-size-default">Products</h1>				</div>
+				<div class="elementor-element elementor-element-27a35ab9 elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="27a35ab9" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://dieusterimed.com">
+
+											<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Products</span>
+									</li>
+						</ul>
+						</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ba920de e-flex e-con-boxed e-con e-parent" data-id="ba920de" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-060eb04 e-con-full e-flex e-con e-child" data-id="060eb04" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-14c3751 e-con-full e-flex e-con e-child" data-id="14c3751" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d7f449b elementor-position-top elementor-widget elementor-widget-image-box" data-id="d7f449b" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-opa/" target="_blank" tabindex="-1"><img decoding="async" width="802" height="1600" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1.jpeg" class="attachment-full size-full wp-image-611" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1.jpeg 802w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1-150x300.jpeg 150w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1-513x1024.jpeg 513w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1-768x1532.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1-770x1536.jpeg 770w" sizes="(max-width: 802px) 100vw, 802px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE OPA	</p></div></div>				</div>
+				<div class="elementor-element elementor-element-7ae9007 elementor-align-center elementor-widget elementor-widget-button" data-id="7ae9007" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-opa/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f4f796a e-con-full e-flex e-con e-child" data-id="f4f796a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-275118a e-con-full e-flex e-con e-child" data-id="275118a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c7ec2b1 elementor-position-top elementor-widget elementor-widget-image-box" data-id="c7ec2b1" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/glutasure/" target="_blank" tabindex="-1"><img decoding="async" width="938" height="1600" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM.jpeg" class="attachment-full size-full wp-image-612" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM.jpeg 938w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM-176x300.jpeg 176w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM-600x1024.jpeg 600w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM-768x1310.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.01-PM-900x1536.jpeg 900w" sizes="(max-width: 938px) 100vw, 938px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">GLUTASURE</p></div></div>				</div>
+				<div class="elementor-element elementor-element-ea3f3f5 elementor-align-center elementor-widget elementor-widget-button" data-id="ea3f3f5" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/glutasure/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c81ec47 e-con-full e-flex e-con e-child" data-id="c81ec47" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-fc4c0a4 e-con-full e-flex e-con e-child" data-id="fc4c0a4" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b311440 elementor-position-top elementor-widget elementor-widget-image-box" data-id="b311440" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-eo-cartridges/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="886" height="1600" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM.jpeg" class="attachment-full size-full wp-image-615" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM.jpeg 886w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM-166x300.jpeg 166w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM-567x1024.jpeg 567w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM-768x1387.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.00-PM-851x1536.jpeg 851w" sizes="(max-width: 886px) 100vw, 886px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE EO CARTRIDGES</p></div></div>				</div>
+				<div class="elementor-element elementor-element-966af2a elementor-align-center elementor-widget elementor-widget-button" data-id="966af2a" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-eo-cartridges/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-11b9568 e-flex e-con-boxed e-con e-parent" data-id="11b9568" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e49897f e-con-full e-flex e-con e-child" data-id="e49897f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-2adae5b e-con-full e-flex e-con e-child" data-id="2adae5b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-21e43af elementor-position-top elementor-widget elementor-widget-image-box" data-id="21e43af" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-fs-fogging-solution/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="748" height="2560" src="https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-scaled.png" class="attachment-full size-full wp-image-724" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-scaled.png 748w, https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-88x300.png 88w, https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-299x1024.png 299w, https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-768x2629.png 768w, https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-449x1536.png 449w, https://dieusterimed.com/wp-content/uploads/2025/08/asure-fs-598x2048.png 598w" sizes="(max-width: 748px) 100vw, 748px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE®-FS Fogging Solution</p></div></div>				</div>
+				<div class="elementor-element elementor-element-705f7a7 elementor-align-center elementor-widget elementor-widget-button" data-id="705f7a7" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-fs-fogging-solution/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ed2adc3 e-con-full e-flex e-con e-child" data-id="ed2adc3" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-90ba5ff e-con-full e-flex e-con e-child" data-id="90ba5ff" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e3f812d elementor-position-top elementor-widget elementor-widget-image-box" data-id="e3f812d" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-bowie-dick-test-pack/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="1600" height="1593" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM.jpeg" class="attachment-full size-full wp-image-620" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM.jpeg 1600w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM-300x300.jpeg 300w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM-1024x1020.jpeg 1024w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM-150x150.jpeg 150w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM-768x765.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.21-PM-1536x1529.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE BOWIE DICK TEST PACK</p></div></div>				</div>
+				<div class="elementor-element elementor-element-a9cb47b elementor-align-center elementor-widget elementor-widget-button" data-id="a9cb47b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-bowie-dick-test-pack/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2c471c4 e-con-full e-flex e-con e-child" data-id="2c471c4" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-8a96498 e-con-full e-flex e-con e-child" data-id="8a96498" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a606e52 elementor-position-top elementor-widget elementor-widget-image-box" data-id="a606e52" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-class-6-integrator-indicator/" target="_blank" tabindex="-1"><img decoding="async" src="https://dieusterimed.com/wp-content/uploads/2025/08/ci6-1-1.png" class="attachment-full size-full wp-image-682" alt="" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">	ASURE CLASS 6 INTEGRATOR INDICATOR</p></div></div>				</div>
+				<div class="elementor-element elementor-element-668554f elementor-align-center elementor-widget elementor-widget-button" data-id="668554f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-class-6-integrator-indicator/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b5e4821 e-flex e-con-boxed e-con e-parent" data-id="b5e4821" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7d2429a e-con-full e-flex e-con e-child" data-id="7d2429a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-206ef3d e-con-full e-flex e-con e-child" data-id="206ef3d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-36d4aed elementor-position-top elementor-widget elementor-widget-image-box" data-id="36d4aed" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-class-5-integrator-indicator/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="1600" height="1299" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1.jpeg" class="attachment-full size-full wp-image-603" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1.jpeg 1600w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1-300x244.jpeg 300w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1-1024x831.jpeg 1024w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1-768x624.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.55.58-PM-1-1536x1247.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE CLASS 5 INTEGRATOR INDICATOR</p></div></div>				</div>
+				<div class="elementor-element elementor-element-002f702 elementor-align-center elementor-widget elementor-widget-button" data-id="002f702" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-class-5-integrator-indicator/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-34beb60 e-con-full e-flex e-con e-child" data-id="34beb60" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-129f044 e-con-full e-flex e-con e-child" data-id="129f044" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8113bd4 elementor-position-top elementor-widget elementor-widget-image-box" data-id="8113bd4" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/process-indicator-tape-steam-eto/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="500" height="359" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.06-PM.jpeg" class="attachment-full size-full wp-image-604" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.06-PM.jpeg 500w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.06-PM-300x215.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">PROCESS INDICATOR TAPE : STEAM &amp; ETO</p></div></div>				</div>
+				<div class="elementor-element elementor-element-a496fa6 elementor-align-center elementor-widget elementor-widget-button" data-id="a496fa6" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/process-indicator-tape-steam-eto/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-511deee e-con-full e-flex e-con e-child" data-id="511deee" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-3a8b379 e-con-full e-flex e-con e-child" data-id="3a8b379" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-62a3841 elementor-position-top elementor-widget elementor-widget-image-box" data-id="62a3841" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-process-challenge-device-test-sets/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="1600" height="1202" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM.jpeg" class="attachment-full size-full wp-image-606" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM.jpeg 1600w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-300x225.jpeg 300w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1024x769.jpeg 1024w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-768x577.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.03-PM-1536x1154.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE PROCESS CHALLENGE DEVICE </p></div></div>				</div>
+				<div class="elementor-element elementor-element-7cddfe4 elementor-align-center elementor-widget elementor-widget-button" data-id="7cddfe4" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-process-challenge-device-test-sets/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c0275eb e-flex e-con-boxed e-con e-parent" data-id="c0275eb" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-36fb0c9 e-con-full e-flex e-con e-child" data-id="36fb0c9" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-2ea15a6 e-con-full e-flex e-con e-child" data-id="2ea15a6" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f2c727d elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f2c727d" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/sms-sheet-60-x-60-80-x-80-100-x-100-120-x-120/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="275" height="183" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.05-PM.jpeg" class="attachment-full size-full wp-image-605" alt="" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">SMS SHEET: 60 x 60, 80 x 80, 100 x 100 , <br>120 x 120</p></div></div>				</div>
+				<div class="elementor-element elementor-element-2e034de elementor-align-center elementor-widget elementor-widget-button" data-id="2e034de" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/sms-sheet-60-x-60-80-x-80-100-x-100-120-x-120/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-88a458a e-con-full e-flex e-con e-child" data-id="88a458a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d6a200e e-con-full e-flex e-con e-child" data-id="d6a200e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-329772d elementor-position-top elementor-widget elementor-widget-image-box" data-id="329772d" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="#" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="600" height="600" src="https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.37-AM.jpeg" class="attachment-full size-full wp-image-1112" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.37-AM.jpeg 600w, https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.37-AM-300x300.jpeg 300w, https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.37-AM-150x150.jpeg 150w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Sterilization Pouches</p></div></div>				</div>
+				<div class="elementor-element elementor-element-82f0e6c elementor-align-center elementor-widget elementor-widget-button" data-id="82f0e6c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/sterilization-pouches/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-83c7f26 e-con-full e-flex e-con e-child" data-id="83c7f26" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-588936b e-con-full e-flex e-con e-child" data-id="588936b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-202f4ee elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="202f4ee" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/flat-reels/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="424" height="379" src="https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.36-AM.jpeg" class="attachment-full size-full wp-image-1096" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.36-AM.jpeg 424w, https://dieusterimed.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-12.41.36-AM-300x268.jpeg 300w" sizes="(max-width: 424px) 100vw, 424px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Flat Reels</p></div></div>				</div>
+				<div class="elementor-element elementor-element-7fd83bd elementor-align-center elementor-widget elementor-widget-button" data-id="7fd83bd" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/flat-reels/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ff54d49 e-con-full e-flex e-con e-child" data-id="ff54d49" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-449d098 e-con-full e-flex e-con e-child" data-id="449d098" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-dcfa02c e-con-full e-flex e-con e-child" data-id="dcfa02c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-cabb0a2 elementor-position-top elementor-widget elementor-widget-image-box" data-id="cabb0a2" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://dieusterimed.com/asure-documentation-rolls/" target="_blank" tabindex="-1"><img loading="lazy" decoding="async" width="1600" height="858" src="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM.jpeg" class="attachment-full size-full wp-image-626" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM.jpeg 1600w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM-300x161.jpeg 300w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM-1024x549.jpeg 1024w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM-768x412.jpeg 768w, https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-24-at-11.56.02-PM-1536x824.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></a></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">ASURE DOCUMENTATION ROLLS</p></div></div>				</div>
+				<div class="elementor-element elementor-element-df7aba0 elementor-align-center elementor-widget elementor-widget-button" data-id="df7aba0" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="https://dieusterimed.com/asure-documentation-rolls/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Details</span>
+					</span>
+					</a>
+								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ccc2f6b e-flex e-con-boxed e-con e-parent" data-id="ccc2f6b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3eaf5839 e-con-full e-flex e-con e-child" data-id="3eaf5839" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-53bcd3c9 elementor-widget elementor-widget-heading" data-id="53bcd3c9" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Ensure Safe &amp; Reliable Sterilization Today!</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-5b4c4e1b e-con-full e-flex e-con e-child" data-id="5b4c4e1b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-68c80af8 elementor-widget elementor-widget-button" data-id="68c80af8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Buy Now</span>
+					</span>
+					</a>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="162" class="elementor elementor-162 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-41de33b3 e-flex e-con-boxed e-con e-parent" data-id="41de33b3" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-2b5fe8c6 e-con-full e-flex e-con e-child" data-id="2b5fe8c6" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4e0b3609 elementor-widget elementor-widget-image" data-id="4e0b3609" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="https://dieusterimed.com">
+							<img width="800" height="226" src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png" class="attachment-large size-large wp-image-964" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png 972w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-300x85.png 300w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-768x216.png 768w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+															</div>
+				<div class="elementor-element elementor-element-6e7441f5 elementor-widget elementor-widget-text-editor" data-id="6e7441f5" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p>We specialize in manufacturing and supplying high-quality sterilization assurance solutions.</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-75667bc8 e-con-full e-flex e-con e-child" data-id="75667bc8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-61132aea elementor-widget elementor-widget-heading" data-id="61132aea" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Latest Blog
+</h2>				</div>
+				<div class="elementor-element elementor-element-18b53e30 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="18b53e30" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://dieusterimed.com/">
+
+											<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://dieusterimed.com/about-us-2/">
+
+											<span class="elementor-icon-list-text">About</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://dieusterimed.com/research-2/">
+
+											<span class="elementor-icon-list-text">Products</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://dieusterimed.com/contact-2/">
+
+											<span class="elementor-icon-list-text">Contact</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-1e429744 e-con-full e-flex e-con e-child" data-id="1e429744" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6dbd7f35 elementor-widget elementor-widget-heading" data-id="6dbd7f35" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Get In Touch</h2>				</div>
+				<div class="elementor-element elementor-element-7a510443 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7a510443" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">St. No 03 Baba Mukand Singh Nagar, Daba Road GT Road Ludhiana 141014, Punjab</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Alliance Partner: Healwave Medical, Warehouse No-8,Industrial Area-13,  Sharjah. UAE</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">+91-9803894000 <br> +91-7009451721</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="mailto:emea@dieusterimed.agency">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-envelope-open" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M494.586 164.516c-4.697-3.883-111.723-89.95-135.251-108.657C337.231 38.191 299.437 0 256 0c-43.205 0-80.636 37.717-103.335 55.859-24.463 19.45-131.07 105.195-135.15 108.549A48.004 48.004 0 0 0 0 201.485V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V201.509a48 48 0 0 0-17.414-36.993zM464 458a6 6 0 0 1-6 6H54a6 6 0 0 1-6-6V204.347c0-1.813.816-3.526 2.226-4.665 15.87-12.814 108.793-87.554 132.364-106.293C200.755 78.88 232.398 48 256 48c23.693 0 55.857 31.369 73.41 45.389 23.573 18.741 116.503 93.493 132.366 106.316a5.99 5.99 0 0 1 2.224 4.663V458zm-31.991-187.704c4.249 5.159 3.465 12.795-1.745 16.981-28.975 23.283-59.274 47.597-70.929 56.863C336.636 362.283 299.205 400 256 400c-43.452 0-81.287-38.237-103.335-55.86-11.279-8.967-41.744-33.413-70.927-56.865-5.21-4.187-5.993-11.822-1.745-16.981l15.258-18.528c4.178-5.073 11.657-5.843 16.779-1.726 28.618 23.001 58.566 47.035 70.56 56.571C200.143 320.631 232.307 352 256 352c23.602 0 55.246-30.88 73.41-45.389 11.994-9.535 41.944-33.57 70.563-56.568 5.122-4.116 12.601-3.346 16.778 1.727l15.258 18.526z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">emea(at)dieusterimed(dot)agency</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="mailto:cssd.inc@gmail.com">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-envelope-open" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M494.586 164.516c-4.697-3.883-111.723-89.95-135.251-108.657C337.231 38.191 299.437 0 256 0c-43.205 0-80.636 37.717-103.335 55.859-24.463 19.45-131.07 105.195-135.15 108.549A48.004 48.004 0 0 0 0 201.485V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V201.509a48 48 0 0 0-17.414-36.993zM464 458a6 6 0 0 1-6 6H54a6 6 0 0 1-6-6V204.347c0-1.813.816-3.526 2.226-4.665 15.87-12.814 108.793-87.554 132.364-106.293C200.755 78.88 232.398 48 256 48c23.693 0 55.857 31.369 73.41 45.389 23.573 18.741 116.503 93.493 132.366 106.316a5.99 5.99 0 0 1 2.224 4.663V458zm-31.991-187.704c4.249 5.159 3.465 12.795-1.745 16.981-28.975 23.283-59.274 47.597-70.929 56.863C336.636 362.283 299.205 400 256 400c-43.452 0-81.287-38.237-103.335-55.86-11.279-8.967-41.744-33.413-70.927-56.865-5.21-4.187-5.993-11.822-1.745-16.981l15.258-18.528c4.178-5.073 11.657-5.843 16.779-1.726 28.618 23.001 58.566 47.035 70.56 56.571C200.143 320.631 232.307 352 256 352c23.602 0 55.246-30.88 73.41-45.389 11.994-9.535 41.944-33.57 70.563-56.568 5.122-4.116 12.601-3.346 16.778 1.727l15.258 18.526z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">cssd(dot)inc(at)gmail.com</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-790f40ce elementor-absolute rotate-me elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="790f40ce" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+															<img width="93" height="93" src="https://dieusterimed.com/wp-content/uploads/2025/08/shape-14-1.png" class="attachment-large size-large wp-image-17" alt="" />															</div>
+				<div class="elementor-element elementor-element-774884ce elementor-absolute rotate-me elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="774884ce" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+															<img width="93" height="93" src="https://dieusterimed.com/wp-content/uploads/2025/08/shape-14-1.png" class="attachment-large size-large wp-image-17" alt="" />															</div>
+				<div class="elementor-element elementor-element-38a3c787 elementor-widget__width-initial elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-spacer" data-id="38a3c787" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-54a7756c elementor-widget__width-initial elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-spacer" data-id="54a7756c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-650dfa3a e-flex e-con-boxed e-con e-parent" data-id="650dfa3a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5e4d5bf5 elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5e4d5bf5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">DIEU STERIMED PVT LTD © </span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">2026</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">All Right Reserved</span>
+									</li>
+						</ul>
+						</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-66c4b266 e-flex e-con-boxed e-con e-parent" data-id="66c4b266" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4bd71495 elementor-widget elementor-widget-html" data-id="4bd71495" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+					<style>
+ .rotate-me {
+  animation-name: rotateme;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  -webkit-animation-name: rotateme;
+  -webkit-animation-duration: 30s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: rotateme;
+  -moz-animation-duration: 30s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -ms-animation-name: rotateme;
+  -ms-animation-duration: 30s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+  -o-animation-name: rotateme;
+  -o-animation-duration: 30s;
+  -o-animation-iteration-count: infinite;
+  -o-animation-timing-function: linear;
+}
+
+
+@keyframes rotateme {
+    from {
+        transform: rotate(0deg);
+    }
+    to { 
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes rotateme {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to { 
+        -webkit-transform: rotate(360deg);
+    }
+}
+@-moz-keyframes rotateme {
+    from {
+        -moz-transform: rotate(0deg);
+    }
+    to { 
+        -moz-transform: rotate(360deg);
+    }
+}
+@-o-keyframes rotateme {
+    from {
+        -o-transform: rotate(0deg);
+    }
+    to { 
+        -o-transform: rotate(360deg);
+    }
+}
+</style>				</div>
+					</div>
+				</div>
+				</div>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<div data-elementor-type="popup" data-elementor-id="164" class="elementor elementor-164 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInLeft&quot;,&quot;exit_animation&quot;:&quot;fadeInLeft&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;browsers&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;mobile&quot;,&quot;tablet&quot;,&quot;laptop&quot;],&quot;browsers_browsers&quot;:&quot;all&quot;}}" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-4c5dc1c9 e-flex e-con-boxed e-con e-parent" data-id="4c5dc1c9" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3bf46050 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="3bf46050" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+																<a href="https://dieusterimed.com">
+							<img width="800" height="226" src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png" class="attachment-large size-large wp-image-964" alt="" srcset="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png 972w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-300x85.png 300w, https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED-768x216.png 768w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+															</div>
+				<div class="elementor-element elementor-element-1dbd80f elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-widget elementor-widget-nav-menu" data-id="1dbd80f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
+				<ul id="menu-1-1dbd80f" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-261"><a href="https://dieusterimed.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://dieusterimed.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-199 current_page_item menu-item-634"><a href="https://dieusterimed.com/research-2/" aria-current="page" class="elementor-item elementor-item-active">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://dieusterimed.com/contact-2/" class="elementor-item">Contact</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-1dbd80f" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-261"><a href="https://dieusterimed.com/" class="elementor-item" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://dieusterimed.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-199 current_page_item menu-item-634"><a href="https://dieusterimed.com/research-2/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://dieusterimed.com/contact-2/" class="elementor-item" tabindex="-1">Contact</a></li>
+</ul>			</nav>
+						</div>
+				<div class="elementor-element elementor-element-51d31d91 elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="51d31d91" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-d088a44" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook-f" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-9b6f2fa" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-06b6ba9" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+					</div>
+				</div>
+				</div>
+					<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='elementor-post-164-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/post-164.css?ver=1790845970' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://dieusterimed.com/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1790845969' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://dieusterimed.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='https://dieusterimed.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.2' media='all' />
+<script id="hello-theme-frontend-js" src="https://dieusterimed.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9"></script>
+<script id="elementor-webpack-runtime-js" src="https://dieusterimed.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1"></script>
+<script id="elementor-frontend-modules-js" src="https://dieusterimed.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1"></script>
+<script id="jquery-ui-core-js" src="https://dieusterimed.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"4.1.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/dieusterimed.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/dieusterimed.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/dieusterimed.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"913deef624","atomicFormsSendForm":"945e64d25b"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":199,"title":"Products%20-%20Dieu%20SteriMed%20Pvt.%20Ltd.","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://dieusterimed.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1"></script>
+<script id="smartmenus-js" src="https://dieusterimed.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://dieusterimed.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.2"></script>
+<script id="wp-hooks-js" src="https://dieusterimed.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://dieusterimed.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/dieusterimed.com\/wp-admin\/admin-ajax.php","nonce":"137c7707de","urls":{"assets":"https:\/\/dieusterimed.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/dieusterimed.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/dieusterimed.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://dieusterimed.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.2"></script>
+<script id="pro-elements-handlers-js" src="https://dieusterimed.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.2"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://dieusterimed.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://dieusterimed.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.8.1 on 2026-10-02 06:48:04 -->

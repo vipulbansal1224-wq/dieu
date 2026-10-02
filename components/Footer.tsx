@@ -32,7 +32,7 @@ export default function Footer() {
                 src="https://dieusterimed.com/wp-content/uploads/2025/08/DIEU-STERIMED.png" 
                 alt="Dieu SteriMed Logo" 
                 fill
-                className="object-contain filter brightness-0 invert"
+                className="object-contain"
               />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">

@@ -26,48 +26,31 @@ export default function AboutSnapshot() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Visual Slider */}
-          <div className="relative">
-            <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl bg-gradient-to-br from-green-50 to-primary-100 flex items-center justify-center p-8">
+          <div className="relative mt-8 lg:mt-0">
+            <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-lg bg-gray-50 flex items-center justify-center p-8 border border-gray-100">
               <AnimatePresence initial={false}>
                 <motion.div
                   key={currentSlide}
-                  initial={{ opacity: 0, x: 50 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  exit={{ opacity: 0, x: -50 }}
+                  initial={{ opacity: 0, scale: 0.95 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  exit={{ opacity: 0, scale: 1.05 }}
                   transition={{ duration: 0.8, ease: "easeInOut" }}
-                  className="absolute inset-0 p-12 flex items-center justify-center"
+                  className="absolute inset-0 p-8 md:p-16 flex items-center justify-center"
                 >
                   <Image 
                     src={sliderImages[currentSlide]} 
                     alt="Dieu SteriMed Products" 
                     fill
-                    className="object-contain p-8 drop-shadow-2xl"
+                    className="object-contain p-4 drop-shadow-xl"
                   />
                 </motion.div>
               </AnimatePresence>
-              <div className="absolute inset-0 bg-gradient-to-t from-dark-900/80 to-transparent z-10" />
-              
-              <div className="absolute bottom-0 left-0 p-8 w-full z-20">
-                <h3 className="text-2xl font-display font-bold mb-4 text-white">Dieu SteriMed</h3>
-                <div className="grid grid-cols-3 gap-4">
-                  {[
-                    { icon: Award, label: 'ISO Certified' },
-                    { icon: Users, label: 'Expert Team' },
-                    { icon: Globe, label: 'Pan-India' },
-                  ].map(({ icon: Icon, label }) => (
-                    <div key={label} className="bg-white/20 backdrop-blur-md rounded-xl p-3 text-center border border-white/30">
-                      <Icon size={20} className="mx-auto mb-1 text-yellow-300" />
-                      <p className="text-xs font-medium text-white">{label}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
             </div>
 
             {/* Founder card */}
-            <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-5 shadow-2xl border border-gray-100 max-w-[220px]">
+            <div className="absolute -top-6 -right-4 md:-right-8 bg-white rounded-2xl p-5 shadow-2xl border border-gray-100 max-w-[240px] z-30">
               <div className="flex items-center gap-4 mb-3">
-                 <div className="w-12 h-12 bg-primary-50 rounded-full flex items-center justify-center overflow-hidden">
+                 <div className="w-12 h-12 bg-primary-50 rounded-full flex items-center justify-center overflow-hidden shrink-0">
                     <span className="font-display font-bold text-primary-600 text-lg">JB</span>
                  </div>
                  <div>

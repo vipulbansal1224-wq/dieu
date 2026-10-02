@@ -4,52 +4,46 @@ import { ArrowRight, Tag } from 'lucide-react';
 
 const products = [
   {
-    id: 'class-1',
-    name: 'Class 1 Chemical Indicators',
-    description:
-      'Process indicators used to distinguish between processed and non-processed items. Available in strip and tape formats.',
+    id: 'asure-bowie-dick',
+    name: 'ASURE BOWIE DICK TEST PACK',
+    description: 'Daily test packs designed to detect air leaks, inadequate air removal, and steam penetration issues in vacuum-assisted steam sterilizers.',
     image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
-    tag: 'ISO 11140-1 Class 1',
+    tag: 'ISO 11140-1 Class 2',
   },
   {
-    id: 'class-4',
-    name: 'Class 4 Multi-Variable Indicators',
-    description:
-      'React to all critical variables of the sterilization process. Change color only when all parameters are achieved.',
-    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
-    tag: 'ISO 11140-1 Class 4',
-  },
-  {
-    id: 'class-5',
-    name: 'Class 5 Integrating Indicators',
-    description:
-      'Designed to react to all critical variables of sterilization. Correlate with biological indicator performance.',
-    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
-    tag: 'ISO 11140-1 Class 5',
-  },
-  {
-    id: 'class-6',
-    name: 'Class 6 Emulating Indicators',
-    description:
-      'Cycle-specific indicators that react to all critical variables. Ideal for routine monitoring of specific sterilization cycles.',
+    id: 'asure-class-6',
+    name: 'ASURE CLASS 6 INTEGRATOR INDICATOR',
+    description: 'Cycle-specific emulating indicators that react to all critical variables of the sterilization process for precise monitoring.',
     image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
     tag: 'ISO 11140-1 Class 6',
   },
   {
-    id: 'pcd',
-    name: 'Process Challenge Devices',
-    description:
-      'Standardized challenge systems designed to test sterilization effectiveness. Used with biological and chemical indicators.',
+    id: 'asure-class-5',
+    name: 'ASURE CLASS 5 INTEGRATOR INDICATOR',
+    description: 'Integrating indicators designed to react to all critical variables, providing immediate visual confirmation of sterilization conditions.',
     image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
-    tag: 'ISO 11138 Compliant',
+    tag: 'ISO 11140-1 Class 5',
   },
   {
-    id: 'biological',
-    name: 'Biological Indicators',
-    description:
-      'The gold standard for sterilization validation. Contains spores of highly resistant microorganisms for definitive sterilization assurance.',
+    id: 'process-indicator-tape',
+    name: 'PROCESS INDICATOR TAPE: STEAM & ETO',
+    description: 'Reliable adhesive indicator tapes for securing packs and providing clear visual evidence of exposure to Steam or EO sterilization.',
     image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
-    tag: 'ISO 11138',
+    tag: 'ISO 11140-1 Class 1',
+  },
+  {
+    id: 'asure-pcd',
+    name: 'ASURE PROCESS CHALLENGE DEVICE',
+    description: 'Standardized challenge devices designed to simulate worst-case scenarios for routine sterilization monitoring and validation.',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM__1_-removebg-preview-1.png',
+    tag: 'Quality Assurance',
+  },
+  {
+    id: 'asure-fs',
+    name: 'ASURE®-FS Fogging Solution',
+    description: 'Advanced fogging solution for effective environmental decontamination and high-level disinfection in critical healthcare areas.',
+    image: 'https://dieusterimed.com/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-03_at_3.10.50_PM-removebg-preview-1.png',
+    tag: 'Infection Control',
   },
 ];
 
